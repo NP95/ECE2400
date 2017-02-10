@@ -1,0 +1,16 @@
+Please read this note before you get started.
+
+1. pow.c and input.ref are the only files you need to modify. 
+2. Don't delete any file in this folder. Otherwise you won't be able to
+compile and run your program.
+3. To compile, open a terminal and do:
+      make
+4. If compiled successfully, an executable called pow will appear.
+5. To run the program, open a terminal and do:
+      ./pow
+6. You'll see an output file called result.txt after running the
+executable. Check if the last column are all 'Y's.
+7. Please run more tests by adding more input datasets in input.ref. 
+8. To clean the folder, open a terminal and do:
+      make clean
+   You'll see that the executable and result.txt are deleted.
